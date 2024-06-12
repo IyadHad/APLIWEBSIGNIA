@@ -1,0 +1,20 @@
+# My Flask App
+
+This is a simple Flask application.
+
+## Setup
+
+1. Install Flask globally:
+    ```bash
+    pip install Flask
+    ```
+
+2. Run the application:
+    ```bash
+    python app.py
+    ```
+
+## Routes
+
+- `/` - Home page
+- `/about` - About page
