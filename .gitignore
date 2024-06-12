@@ -4,6 +4,7 @@
 __pycache__
 
 # Environments 
+venv3.9
 .env 
 .venv 
 env/ 
