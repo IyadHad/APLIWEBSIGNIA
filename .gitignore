@@ -4,7 +4,6 @@
 __pycache__
 
 # Environments 
-venv3.9
 .env 
 .venv 
 env/ 
@@ -12,3 +11,4 @@ venv/
 ENV/ 
 env.bak/ 
 venv.bak/ 
+venv3.9/
